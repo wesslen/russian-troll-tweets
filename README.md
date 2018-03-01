@@ -1,6 +1,6 @@
 ## Russian Trolls Topic Modeling
 
-[HTML File](https://htmlpreview.github.io/?https://github.com/wesslen/russian-troll-tweets/RussianTrolls.html)
+[HTML File](https://rawgit.com/wesslen/russian-troll-tweets/master/RussianTrolls.html)
 
 ![](img/topics.png)
 
